@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MemoryCards</string>
+    <string name="restart">restart</string>
+    <string name="choose_your_cards">Choose your cards!</string>
+    <string name="easy">easy</string>
+    <string name="medium">medium</string>
+    <string name="hard">hard</string>
+    <string name="difficulty">difficulty</string>
+    <string name="category">category</string>
+    <string name="animals">animals</string>
+    <string name="food">food</string>
+    <string name="restart_game">Restart Game</string>
+    <string name="change_level">Change Level</string>
+    <string name="memory_cards">MEMORY CARDS</string>
+    <string name="developed_by">Developed by:</string>
+    <string name="exit_game">Exit Game</string>
+</resources>
